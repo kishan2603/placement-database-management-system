@@ -72,18 +72,15 @@ A **Placement Database Management System** designed to streamline campus placeme
 placement-database-management-system/
 ├── README.md
 ├── docs/
+│   ├── SRS.pdf
+│   ├── PDMS_Relational_Schema.pdf
+│   ├── ER_Diagram.drawio.PNG
 ├── sql/
-│   ├── 01_create_tables_mysql.sql
-│   ├── 02_insert_data_part1.sql
-│   ├── 03_insert_data_part2.sql
-│   ├── 04_insert_data_part3.sql
-│   ├── 05_insert_data_part4.sql
-│   ├── 06_insert_data_part5.sql
-│   ├── 07_insert_data_part6.sql
-│   ├── 08_views.sql
-│   ├── 09_procedures.sql
-│   ├── 10_triggers.sql
-│   └── 11_sample_queries.sql
+│   ├── 01_create_tables.sql
+│   ├── 02_Insert_data.sql
+│   ├── 03_views.sql
+│   ├── 04_sample_queries.sql
+│   
 └── screenshots/
 ```
 
@@ -91,17 +88,10 @@ placement-database-management-system/
 
 ## Execution Order
 
-1. 01_create_tables_mysql.sql
-2. 02_insert_data_part1.sql
-3. 03_insert_data_part2.sql
-4. 04_insert_data_part3.sql
-5. 05_insert_data_part4.sql
-6. 06_insert_data_part5.sql
-7. 07_insert_data_part6.sql
-8. 08_views.sql
-9. 09_procedures.sql
-10. 10_triggers.sql
-11. 11_sample_queries.sql
+1. 01_create_tables.sql
+2. 02_Insert_data.sql
+3. 03_views.sql
+4. 04_sample_queries.sql
 
 ---
 
