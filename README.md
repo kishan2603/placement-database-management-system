@@ -76,12 +76,11 @@ placement-database-management-system/
 │   ├── PDMS_Relational_Schema.pdf
 │   ├── ER_Diagram.drawio.PNG
 ├── sql/
-│   ├── 01_create_tables.sql
-│   ├── 02_Insert_data.sql
-│   ├── 03_views.sql
-│   ├── 04_sample_queries.sql
-│   
-└── screenshots/
+    ├── 01_create_tables.sql
+    ├── 02_Insert_data.sql
+    ├── 03_views.sql
+    ├── 04_sample_queries.sql
+
 ```
 
 ---
