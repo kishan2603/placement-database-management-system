@@ -1,6 +1,6 @@
 # Placement Database Management System (PDMS)
 
-A **MySQL-based Placement Database Management System** designed to streamline campus placement activities for universities and colleges. The project demonstrates complete database design, normalization, SQL programming, and advanced database concepts.
+A **Placement Database Management System** designed to streamline campus placement activities for universities and colleges. The project demonstrates complete database design, normalization, SQL programming.
 
 ---
 
@@ -62,8 +62,6 @@ A **MySQL-based Placement Database Management System** designed to streamline ca
 - ISA (Generalization/Specialization)
 - 1NF, 2NF, 3NF & BCNF
 - Views
-- Stored Procedures
-- Triggers
 - Advanced SQL Queries
 
 ---
@@ -116,19 +114,7 @@ placement-database-management-system/
 - 40 job postings
 - 200 job applications
 - 10 SQL views
-- 8 stored procedures
-- 5 triggers
-- 30 advanced SQL queries
-
----
-
-## Future Enhancements
-
-- Authentication
-- Email notifications
-- Resume verification
-- Placement analytics dashboard
-- Web application integration
+- advanced SQL queries
 
 ---
 
@@ -137,10 +123,6 @@ placement-database-management-system/
 **Kishan Rathod**
 
 B.Tech in Mathematics and Computing  
-DA-IICT
+DAU (Formally DA-IICT)
 
 ---
-
-## License
-
-This project is for academic and educational purposes.
